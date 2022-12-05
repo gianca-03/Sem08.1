@@ -16,4 +16,17 @@
     <string name="menu_home">Inicio</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nombreLugar">Nombre del lugar</string>
+    <string name="correoLugar">Email</string>
+    <string name="telefonoLugar">Telefono(9999-9999)</string>
+    <string name="webLugar">Web</string>
+    <string name="btAddLugar">Agregar lugar</string>
+
+    <string name="ms_AddLugar">Lugar agregado</string>
+    <string name="ms_FaltaValores">Faltan valores</string>
+
+
 </resources>
