@@ -76,15 +76,13 @@ class LugarDao {
             }
     }
 
-
-
      fun eliminarLugar(lugar:Lugar){
 
          if(lugar.id.isNotEmpty()){
              firestore
-                 .collection("luagareViernes")
+                 .collection("lugaresViernes")
                  .document(codigoUsuario)
-                 .collection("Mis lugares")
+                 .collection("misLugares")
                  .document(lugar.id)
                  .delete()
                  .addOnCompleteListener {

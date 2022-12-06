@@ -32,5 +32,12 @@
     <string name="ms_DeleteLugar">Lugar borrado</string>
     <string name="ms_FaltaValores">Faltan valores</string>
 
+    <string name="todo">todo</string>
+    <string name="msg_imagen">Foto del lugar</string>
+    <string name="msgEscucharAudio">Escuchar audio</string>
+    <string name="msgInicioNotaAudio">Grabando</string>
+    <string name="msgDetieneNotaAudio">Detiene Audio</string>
+    <string name="msgSubiendo">Subiendo los archivos</string>
+
 
 </resources>
